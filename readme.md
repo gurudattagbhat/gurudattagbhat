@@ -135,21 +135,15 @@ I specialize in engineering robust web applications, real-time backend systems, 
 
 ---
 
-## 📊 Activity & Coding Metrics
+## 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
 
-  <!-- Guaranteed High-Reliability Badges -->
-  <p>
-    <img src="https://img.shields.io/github/followers/gurudattagbhat?label=GitHub%20Followers&style=for-the-badge&color=00F2FE&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/badge/LeetCode-gurugbhat27-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    <img src="https://img.shields.io/badge/HackerRank-gurugbhat27-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </p>
-
-  <br/>
-
-  <!-- Dynamic GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=gurudattagbhat&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Gurudatta's Trophies" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurudattagbhat/gurudattagbhat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurudattagbhat/gurudattagbhat/output/github-contribution-grid-snake.svg">
+    <img alt="Gurudatta's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/gurudattagbhat/gurudattagbhat/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 
 </div>
 
