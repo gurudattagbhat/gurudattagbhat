@@ -1,18 +1,15 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Header Typing Banner (Fixed Width & Font Size for Full Text Visibility) -->
   <a href="https://gurudattaportfolio.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Gurudatta+Bhat;Full-Stack+Developer+%7C+Java+%26+Python;MCA+Graduate+Student+%40+Alliance+Univ;Welcome+to+my+GitHub+World!%E2%9C%A8" alt="Header Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=800&height=60&lines=Hi+%F0%9F%90%8B%2C+I'm+Gurudatta+Bhat!;Full-Stack+Developer+%7C+Java+%26+Python;MCA+Graduate+Student+%40+Alliance+University;Welcome+to+my+Profile!%E2%9C%A8" alt="Header Typing Banner" />
   </a>
 
   <br/>
 
-  <!-- Portfolio Banner Button -->
+  <!-- High Impact Badges (No Redundant GitHub Links) -->
   <a href="https://gurudattaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-gurudattaportfolio.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio Website" />
-  </a>
-  <a href="https://github.com/gurudattagbhat">
-    <img src="https://img.shields.io/badge/GitHub-gurudattagbhat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="https://www.linkedin.com/in/gurudattagbhat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gurudatta%20Bhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
@@ -23,6 +20,9 @@
   <a href="https://www.hackerrank.com/profile/gurugbhat27" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-gurugbhat27-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
   </a>
+  <a href="mailto:gurugbhat27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gurugbhat27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
   <br/><br/>
 
@@ -32,16 +32,16 @@
 
 ## 💫 About Me
 
-Greetings! I'm **Gurudatta Ganapati Bhat**, a passionate **Full-Stack Software Developer** and **Master's Degree (MCA)** graduate student at **Alliance University, Bangalore**.
+Greetings! I'm **Gurudatta Bhat**, a passionate **Full-Stack Software Developer** and **Master's Degree (MCA)** student at **Alliance University, Bangalore**.
 
 I specialize in engineering robust web applications, real-time backend systems, and data-driven solutions. My journey in technology is fueled by continuous learning, problem-solving, and a deep appreciation for clean architecture and modern user experiences.
 
-- 🎓 **Education**: Pursuing Master of Computer Applications (MCA) at Alliance University, Bangalore. Holding a Bachelor's Degree in Computer Science & Applications from JSS SMI.
-- 💻 **Tech Enthusiast**: Skilled in building scalable backend services with **Java (Spring Boot)**, **Python (Flask, Streamlit)**, and dynamic frontends with **React.js** & **JavaScript**.
-- 🤖 **AI & Data Driven**: Deep interest in Machine Learning, Database optimization (MySQL, MongoDB, SQLite), and AI-driven developer productivity tools.
-- 🚀 **Live Portfolio**: Explore my interactive projects and live demos at [gurudattaportfolio.netlify.app](https://gurudattaportfolio.netlify.app/)
-- 🎯 **Current Goal**: Building high-impact software products, collaborating on open-source projects, and tackling complex algorithmic challenges.
-- 📫 **Get in Touch**: `gurugbhat27@gmail.com` | `ggurudattaMCA25@stu.alliance.edu.in`
+- 🎓 **Education**: Pursuing Master of Computer Applications (MCA) at Alliance University, Bangalore. Bachelor's Degree in Computer Science & Applications from JSS SMI.
+- 💻 **Tech Stack**: Skilled in building scalable backend services with **Java (Spring Boot)**, **Python (Flask, Streamlit)**, and dynamic frontends with **React.js** & **JavaScript**.
+- 🤖 **AI & Databases**: Deep interest in Machine Learning, Database design (MySQL, MongoDB, SQLite), and modern developer tools.
+- 🌐 **Live Portfolio**: Check out my work at [gurudattaportfolio.netlify.app](https://gurudattaportfolio.netlify.app/)
+- 🎯 **Focus**: Building high-performance applications, solving algorithmic challenges, and mastering system architecture.
+- 📫 **Contact**: `gurugbhat27@gmail.com` | `ggurudattaMCA25@stu.alliance.edu.in`
 
 <br />
 
@@ -77,10 +77,9 @@ I specialize in engineering robust web applications, real-time backend systems, 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### 🔧 Tools & Environments
+### 🔧 Development Tools
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -93,9 +92,7 @@ I specialize in engineering robust web applications, real-time backend systems, 
 
 ---
 
-## 🚀 Repositories & Open Source Showcase
-
-Explore my latest repositories directly from GitHub:
+## ⚡ Key Projects Overview
 
 <div align="center">
 
@@ -104,48 +101,32 @@ Explore my latest repositories directly from GitHub:
       <td width="50%" align="center">
         <h3>💬 CollabSpace</h3>
         <p>Real-Time Collaborative Workspace built with Spring Boot, WebSocket messaging & MySQL.</p>
-        <p>
-          <a href="https://github.com/gurudattagbhat?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" />
-          </a>
-        </p>
+        <p><code>Spring Boot</code> • <code>WebSocket</code> • <code>MySQL</code></p>
       </td>
       <td width="50%" align="center">
         <h3>🥗 BeFit</h3>
-        <p>AI Nutrition & Wellness Tracker powered by Python, Streamlit, and smart insights.</p>
-        <p>
-          <a href="https://github.com/gurudattagbhat?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" />
-          </a>
-        </p>
+        <p>AI Nutrition & Wellness Tracker powered by Python, Streamlit, and smart health insights.</p>
+        <p><code>Python</code> • <code>Streamlit</code> • <code>AI Analytics</code></p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h3>🛠️ Local Handz</h3>
         <p>Comprehensive Home Services Platform connecting local providers with customers.</p>
-        <p>
-          <a href="https://github.com/gurudattagbhat?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" />
-          </a>
-        </p>
+        <p><code>React</code> • <code>Node.js</code> • <code>MongoDB</code></p>
       </td>
       <td width="50%" align="center">
         <h3>♻️ Community Recycling</h3>
-        <p>Eco-focused green initiative marketplace built with Flask & SQLite.</p>
-        <p>
-          <a href="https://github.com/gurudattagbhat?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" />
-          </a>
-        </p>
+        <p>Eco-focused green initiative marketplace built for sustainable item trading.</p>
+        <p><code>Flask</code> • <code>SQLite</code> • <code>HTML5/CSS3</code></p>
       </td>
     </tr>
   </table>
 
   <br />
 
-  <a href="https://github.com/gurudattagbhat?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_Browse_All_GitHub_Repositories-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Browse Repositories" />
+  <a href="https://gurudattaportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Explore_Live_Demos_on_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Explore Portfolio" />
   </a>
 
 </div>
@@ -154,16 +135,21 @@ Explore my latest repositories directly from GitHub:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Activity & Coding Metrics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gurudattagbhat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gurudatta's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurudattagbhat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Guaranteed High-Reliability Badges -->
+  <p>
+    <img src="https://img.shields.io/github/followers/gurudattagbhat?label=GitHub%20Followers&style=for-the-badge&color=00F2FE&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/badge/LeetCode-gurugbhat27-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/HackerRank-gurugbhat27-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurudattagbhat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+  <!-- Dynamic GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=gurudattagbhat&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Gurudatta's Trophies" width="100%" />
 
 </div>
 
@@ -171,22 +157,15 @@ Explore my latest repositories directly from GitHub:
 
 ---
 
-## 🎮 Contribution Snake
+## 🎮 Developer Mini-Game
 
 <div align="center">
 
-### 🐍 GitHub Contribution Snake
-*Watch the snake eat through my GitHub contribution activity!*
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
-<br/><br/>
-
-### 🧩 Quick Developer Quiz Game!
-*Test your coding knowledge right here on my profile. Click a question to reveal the answer:*
+### 🧩 Developer Trivia Quiz
+*Click any question below to expand and check your answer:*
 
 <details>
-  <summary><b>❓ Q1: What makes Java's WebSocket connection ideal for real-time apps like CollabSpace?</b></summary>
+  <summary><b>❓ Q1: What makes Java WebSocket ideal for real-time apps like CollabSpace?</b></summary>
   <br/>
   <blockquote>
     <b>Answer:</b> WebSockets provide full-duplex, persistent bidirectional communication over a single TCP connection, allowing real-time instant messaging with minimal HTTP overhead!
@@ -202,7 +181,7 @@ Explore my latest repositories directly from GitHub:
 </details>
 
 <details>
-  <summary><b>❓ Q3: How does Streamlit simplify Python web development for apps like BeFit?</b></summary>
+  <summary><b>❓ Q3: How does Streamlit simplify Python web app development for apps like BeFit?</b></summary>
   <br/>
   <blockquote>
     <b>Answer:</b> Streamlit turns pure Python scripts into interactive web applications instantly without requiring frontend HTML/CSS/JS boilerplate code!
@@ -215,7 +194,7 @@ Explore my latest repositories directly from GitHub:
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Connect with Me
 
 <div align="center">
 
@@ -225,11 +204,11 @@ Explore my latest repositories directly from GitHub:
   <a href="https://www.linkedin.com/in/gurudattagbhat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/gurudattagbhat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://leetcode.com/u/gurugbhat27/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/gurugbhat27" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="mailto:gurugbhat27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -237,6 +216,6 @@ Explore my latest repositories directly from GitHub:
 
   <br/><br/>
   
-  <sub>Crafted with passion by <b>Gurudatta Bhat</b></sub>
+  <sub>Designed with ❤️ for <b>Gurudatta Bhat</b></sub>
 
 </div>
