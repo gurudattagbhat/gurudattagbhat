@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://gurudattaportfolio.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Gurudatta+Ganapati+Bhat;Full-Stack+Developer+%7C+Java+%26+Python;MCA+Graduate+Student+%40+Alliance+Univ;Welcome+to+my+GitHub+World!%E2%9C%A8" alt="Header Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Gurudatta+Bhat;Full-Stack+Developer+%7C+Java+%26+Python;MCA+Graduate+Student+%40+Alliance+Univ;Welcome+to+my+GitHub+World!%E2%9C%A8" alt="Header Typing Banner" />
   </a>
 
   <br/>
@@ -171,7 +171,7 @@ Explore my latest repositories directly from GitHub:
 
 ---
 
-## 🎮 Developer Mini-Game & Contribution Snake
+## 🎮 Contribution Snake
 
 <div align="center">
 
@@ -237,6 +237,6 @@ Explore my latest repositories directly from GitHub:
 
   <br/><br/>
   
-  <sub>Crafted with passion for <b>Gurudatta Ganapati Bhat</b> | Powered by Open Source</sub>
+  <sub>Crafted with passion by <b>Gurudatta Bhat</b></sub>
 
 </div>
