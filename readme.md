@@ -211,6 +211,6 @@ I specialize in engineering robust web applications, real-time backend systems, 
 
   <br/><br/>
   
-  <sub>Designed with ❤️ for <b>Gurudatta Bhat</b></sub>
+  <sub>Designed with ❤️ by <b>Gurudatta Bhat</b></sub>
 
 </div>
