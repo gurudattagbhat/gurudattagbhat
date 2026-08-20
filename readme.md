@@ -139,10 +139,11 @@ I specialize in engineering robust web applications, real-time backend systems, 
 
 <div align="center">
 
+  <!-- Guaranteed Working Live Snake SVG -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurudattagbhat/gurudattagbhat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurudattagbhat/gurudattagbhat/output/github-contribution-grid-snake.svg">
-    <img alt="Gurudatta's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/gurudattagbhat/gurudattagbhat/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 
 </div>
